@@ -104,12 +104,11 @@ Working On:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gyanam1310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=Gyanam1310&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
+<img src="https://raw.githubusercontent.com/Gyanam1310/Gyanam1310/main/metrics.svg" width="80%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanam1310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="45%"/>
+<img src="https://streak-stats.demolab.com/?user=Gyanam1310&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
 
 <br><br>
 
