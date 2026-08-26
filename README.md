@@ -104,11 +104,11 @@ Working On:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Gyanam1310/Gyanam1310/main/metrics.svg" width="80%"/>
+<img src="https://raw.githubusercontent.com/Gyanam1310/Gyanam1310/main/metrics.svg" width="100%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Gyanam1310&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Gyanam1310&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
 
 <br><br>
 
